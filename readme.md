@@ -11,13 +11,17 @@
 
 -  [NodeMailer](https://nodemailer.com/about/)
 
+-  [Bcrypt](https://www.npmjs.com/package/bcrypt)
+
 ## Run client -- frontend
 
+- cd client
 - npm install
 - npm start
 
 ## Run server -- backend
 
+- cd server
 - npm install
 - npm start
 
