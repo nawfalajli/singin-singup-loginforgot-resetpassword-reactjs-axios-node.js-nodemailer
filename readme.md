@@ -36,5 +36,5 @@
 ```javascript
 POST API create user : /api/users
 POST API check auth : /api/auth
-GET API forgot password: /api/:id/verify/:token/
+POST API forgot password: /api/forgot_password
 ```
